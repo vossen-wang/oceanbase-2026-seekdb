@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# C++ build artifacts (seekdb kernel)
+*.o
+*.so
+*.a
+build/
+build_release/
+build_debug/
