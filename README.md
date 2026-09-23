@@ -1,2 +1,23 @@
-# oceanbase-2026-seekdb
-OceanBase 2026 Database Competition - SeekDB Track
+# OceanBase 2026 - SeekDB
+
+第六届 OceanBase 数据库大赛 SeekDB 赛道参赛仓库
+
+## 队伍信息
+
+- 队名：New File（新建文件）
+- 王子丰（大连东软信息学院）
+- 张洋（大连交通大学）
+
+## 初赛进度
+
+- [ ] 题目 1
+- [ ] 题目 2
+- [ ] 题目 3
+- [ ] 题目 4
+- [ ] 题目 5
+- [ ] 题目 6
+- [ ] 题目 7
+- [ ] 题目 8
+- [ ] 题目 9
+- [ ] 题目 10
+- [ ] 题目 11
